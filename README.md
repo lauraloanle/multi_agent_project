@@ -18,14 +18,6 @@ A team of agents collaborates to write an article titled **"The Rise of AI in Ev
 ## 🔁 Agent Collaboration
 Agents explicitly pass information from one to another to complete the writing workflow:
 
-
-## 🚀 How to Run
-Make sure you have Python 3.10+ and the required dependencies.
-
-```bash
-pip install -r requirements.txt
-python main.py
-
 ## 📂 Project Structure
 multi_agent_project/
 ├── agents/
@@ -37,3 +29,10 @@ multi_agent_project/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+## 🚀 How to Run
+Make sure you have Python 3.10+ and the required dependencies.
+
+```bash
+pip install -r requirements.txt
+python main.py
